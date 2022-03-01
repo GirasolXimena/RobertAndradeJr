@@ -10,6 +10,6 @@ My interests include
 - Hairless Dogs 🦭
 
 #### Connect with me 
-[LinkedIn](https://www.linkedin.com/in/srobertandrade/) | [Codepen](https://codepen.io/abstract_code) | [Goodreads](https://www.goodreads.com/user/show/49744155-sergio-andrade)
+[LinkedIn](https://www.linkedin.com/in/srobertandrade/) | [Codepen](https://codepen.io/abstract_code) | [Goodreads](https://www.goodreads.com/robertoandrade)
 
 #### View [my portfolio](https://robertandradejr.dev/)
